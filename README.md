@@ -32,7 +32,7 @@ implent database, change info in config.php, load in browser thats all :)
 ## Leave a STAR if you found this usefull :)
 
 # Pictures
-![index-phone](index-android.png)
+![index-phone](index-android.jpg)
 ![main-phone](main-android.png)
 ![setting-support](setting-support-android.png)
 ![setting-transactions](setting-transactions-android.png)
